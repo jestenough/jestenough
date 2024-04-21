@@ -1,13 +1,12 @@
-# Прывітанне, приветствую, Greetings my friends
+**Вітаю** *[BY]*, **Привет** *[RU]*, **Hallo** *[DE]*, **Hello** *[EN]*! **My name is Vyacheslav Dmitriev**
 
-### I'm Vyacheslav Dmitriev,
+* I am a [Python, Golang] backend Engineer.
+* I go by `jestenough` online in most places.
+* Gonna steal your cookies :)
 
-a Python and Golang backend Engineer. I go by `jestenough` online in most places.
-
-
+My personal website is still in development...
 
 ----
-
 
 <div align="center">
     <img src="images/pixel-earth-image.jpg" alt="eart-pixel-planet"/>
