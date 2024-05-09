@@ -1,4 +1,4 @@
-**Вітаю** *[BY]*, **Привет** *[RU]*, **Hallo** *[DE]*, **Hello** *[EN]*! **My name is Vyacheslav Dmitriev**
+**Вітаю** *[BY]*, **Привет** *[RU]*, **Hello** *[EN]*, **Hallo** *[DE]*, **Hej** *[DA]*! **My name is Vyacheslav Dmitriev**
 
 * I am a [Python, Golang] backend Engineer.
 * I go by `jestenough` online in most places.
