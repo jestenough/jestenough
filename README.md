@@ -1,6 +1,6 @@
 **Вітаю** *[BY]*, **Привет** *[RU]*, **Hello** *[EN]*, **Hallo** *[DE]*, **Hej** *[DA]*! **My name is Vyacheslav Dmitriev**
 
-* I am a [Python, Golang] backend Engineer.
+* I am a [Python, C#, Vue] Fullstack Engineer.
 * I go by `jestenough` online in most places.
 * Gonna steal your cookies :)
 
